@@ -32,7 +32,7 @@
 
 ## 5.测试回调函数
 
-![测试回调函数](hhttps://sls-1252458796.cos.ap-guangzhou.myqcloud.com/WebFunc-php7-receive_callback/img/%E6%B5%8B%E8%AF%95%E5%9B%9E%E8%B0%83%E5%87%BD%E6%95%B0.png?imageView2/2/w/1620)
+![测试回调函数](https://sls-1252458796.cos.ap-guangzhou.myqcloud.com/WebFunc-php7-receive_callback/img/%E6%B5%8B%E8%AF%95%E5%9B%9E%E8%B0%83%E5%87%BD%E6%95%B0.png?imageView2/2/w/1620)
 
 ## 6.建立需要的索引字段
 
