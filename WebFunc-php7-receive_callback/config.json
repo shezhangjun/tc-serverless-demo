@@ -9,17 +9,17 @@
             }
         },
         "English":{
-            "name": "Receive third-party callback sample function",
+            "name": "Receive_third-party_callback_sample_function",
             "description": "Use cloud functions to receive callbacks, cooperate with CLS to view callback logs and persistently dump COS",
             "attention": "Use method and actual case description: https://cloud.tencent.com/developer/article/1865837",
             "author": {
                 "name": "yjwang"
             }
         },
-        "runtime": "PHP",
+        "runtime": "Php7.2",
         "type": "web",
-        "readme":"https://github.com/shezhangjun/serverless-demo/tree/main/WebFunc-php7-receive_callback",
+        "readme":"https://github.com/tencentyun/serverless-demo/tree/master/WebFunc-php7-receive_callback",
         "version": "1.0",
-        "tags":["PHP7", "COS", "CLS" , "IM"]
+        "tags":["PHP7", "COS", "CLS","IM"]
     }
 }
