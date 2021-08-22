@@ -24,7 +24,7 @@
 
 ## 1.前往[Serverless控制台](https://console.cloud.tencent.com/scf/list)创建一个云函数
 
-## 2.[点我下载用于接收回调函数的代码包](https://sls-1252458796.cos.ap-guangzhou.myqcloud.com/DEMO/%E6%8E%A5%E6%94%B6%E7%AC%AC%E4%B8%89%E6%96%B9%E5%9B%9E%E8%B0%83%E5%87%BD%E6%95%B0%E4%BB%A3%E7%A0%81%E5%8C%85-PHP7.zip)
+## [2.点我下载用于接收回调函数的代码包](https://sls-1252458796.cos.ap-guangzhou.myqcloud.com/DEMO/%E6%8E%A5%E6%94%B6%E7%AC%AC%E4%B8%89%E6%96%B9%E5%9B%9E%E8%B0%83%E5%87%BD%E6%95%B0%E4%BB%A3%E7%A0%81%E5%8C%85-PHP7.zip)
 
 ## 3.按照下图指引创建和导入云函数
 
