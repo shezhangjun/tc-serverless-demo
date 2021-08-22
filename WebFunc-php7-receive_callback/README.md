@@ -18,7 +18,7 @@
 
 - 对象存储-图片审核回调
 
-![回调日志实时查询](https://ask.qcloudimg.com/developer-images/article/1148853/4t6z93d815.png)
+![回调日志实时查询](https://ask.qcloudimg.com/developer-images/article/1148853/4t6z93d815.png?imageView2/2/w/1620)
 
 # 云函数部署说明
 
@@ -28,20 +28,20 @@
 
 ## 3.按照下图指引创建和导入云函数
 
-![创建和导入云函数](https://ask.qcloudimg.com/developer-images/article/1148853/7stbicgbiu.png)
+![创建和导入云函数](https://ask.qcloudimg.com/developer-images/article/1148853/7stbicgbiu.png?imageView2/2/w/1620)
 
 ## 5.测试回调函数
 
-![测试回调函数](https://ask.qcloudimg.com/developer-images/article/1148853/21qjy83pk3.png)
+![测试回调函数](https://ask.qcloudimg.com/developer-images/article/1148853/21qjy83pk3.png?imageView2/2/w/1620)
 
 ## 6.建立需要的索引字段
 
-![索引配置](https://ask.qcloudimg.com/developer-images/article/1148853/29ui0wioj2.png)
+![索引配置](https://ask.qcloudimg.com/developer-images/article/1148853/29ui0wioj2.png?imageView2/2/w/1620)
 
-![编辑索引配置](https://ask.qcloudimg.com/developer-images/article/1148853/9b9uay7o23.png)
+![编辑索引配置](https://ask.qcloudimg.com/developer-images/article/1148853/9b9uay7o23.png?imageView2/2/w/1620)
 
-![建立需要的索引字段](https://ask.qcloudimg.com/developer-images/article/1148853/c5wnqcpvbr.png)
+![建立需要的索引字段](https://ask.qcloudimg.com/developer-images/article/1148853/c5wnqcpvbr.png?imageView2/2/w/1620)
 
 ## 7.持久化处理回调日志，[将回调日志投递至对象存储](https://console.cloud.tencent.com/cls/shipper/cos)
 
-![添加投递任务](https://ask.qcloudimg.com/developer-images/article/1148853/elu5rekjw9.png)
+![添加投递任务](https://ask.qcloudimg.com/developer-images/article/1148853/elu5rekjw9.png?imageView2/2/w/1620)
